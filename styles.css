@@ -3,32 +3,137 @@
     padding: 0;
 }
 
-body{
-    background-color: rgb(168, 166, 166);
-    color:black
-}
 
-a{
-    color:blue;
-    font-size: larger;
-    font-family:'Times New Roman', Times, serif;
-    font-weight: bold;
-}
-
-div{
-    display: grid;
+nav{
+    display: flex;
     align-items: center;
-    justify-items: center;
+    background-color: rgb(168, 166, 166);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+
+
+footer{
+    display: grid;
+    background: rgb(3, 3, 206);;
+    justify-content: center;
+    font-size: large;
+    height: 50px;
+    align-items: center;
+    
+
+}
+
+.sumario{
+    color: rgb(15, 15, 167);
+    font-size: 30px;
+    background-color:rgb(168, 166, 166);
+}
+
+
+img{
+    width: 150px
+
+}
+
+header{
+    display: grid;
+    background-color: rgb(3, 3, 206);
+    grid-template-columns:450px 1fr;
+    grid-template-rows: 80px;
+    height: 100px;
+    justify-items: end;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+h4{
+    font-size: 25px;
+    padding: 10px 90px 10px ;
+}
+
+
+.imagens-logo {
+        display: inline-block;
+        padding: 2px 5px 2px 5px;
+}
+
+.principal{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(1fr);
+    align-items:stretch ;
+    gap: 20px;
+    grid-area: main;
+    background-color:rgb(168, 166, 166);
+    padding-top: 10px;
+    
     
 }
 
-footer{
-    display: flex;
-    align-items: center;
-    justify-items: end;
+.imagem{
+    display: grid;
+    grid-template-rows: auto;
+    justify-items: center;
+    border: 1px black solid;
+    
+    
 }
 
-h1, h2, h3{
-    display: flex;
-    align-items: center;
+
+.img-card{
+    width: 250px;
+}
+
+.descricoes {
+    
+    background-color:rgb(168, 166, 166);
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-right: 90px;
+    font-size: 22px;
+}
+
+a{
+    color: yellow;
+}
+
+.cabecalho{
+    background-color: blue;
+
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.questionario{
+    background-color:rgb(168, 166, 166);
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 90px;
+    font-size: 22px;
+}
+
+.fluxograma{
+    width: 1200px;
+}
+
+.sessao-dados-final{
+    background-color:rgb(168, 166, 166);
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 90px;
+    font-size: 22px;
+    height: 400px;
+}
+
+.logo{
+    width: 30px;
 }
