@@ -26,6 +26,7 @@
 ##  🧭Status do Projeto
  
  - Feito
+ 
  Inicio: Objetivo do projeto e tecnologias utilizadas
  Pesquisa/questionário
  Planilha de dados bruta
