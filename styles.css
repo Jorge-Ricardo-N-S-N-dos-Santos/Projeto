@@ -19,7 +19,6 @@ nav{
 
 
 footer{
-    color:  rgb(194, 185, 185);
     display: grid;
     background: rgb(3, 3, 206);;
     justify-content: center;
@@ -50,11 +49,10 @@ header{
     height: 100px;
     justify-items: end;
     align-items: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-top: 20px;
     font-size: 30px;
-    color: rgb(194, 185, 185);
 }
 
 h4{
