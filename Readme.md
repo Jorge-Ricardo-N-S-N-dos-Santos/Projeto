@@ -27,12 +27,12 @@
  
  - Feito
  
- Inicio: Objetivo do projeto e tecnologias utilizadas
- Pesquisa/questionário
- Planilha de dados bruta
- Planilha de dados trabalhada/retificada
- Dashboard
- Considerações finais
+ - Inicio: Objetivo do projeto e tecnologias utilizadas
+ - Pesquisa/questionário
+ - Planilha de dados bruta
+ - Planilha de dados trabalhada/retificada
+ - Dashboard
+ - Considerações finais
 
 ---
 
