@@ -25,7 +25,7 @@
 ---
 ##  🧭Status do Projeto
  
- - Feito
+ - [x] Feito
  
  - Inicio: Objetivo do projeto e tecnologias utilizadas
  - Pesquisa/questionário
