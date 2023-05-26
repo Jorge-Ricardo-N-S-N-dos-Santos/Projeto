@@ -6,7 +6,7 @@
     Projeto integrador: Gama Academy/Ipiranga
 </h4>
 
-##  👩🏾Quem Faz 
+##  Quem Faz 
 
 - [Carlos Julio](https://www.github.com/carlosjulyo)
 - [Igor Saramago](https://github.com/igorsaramagocosta)
