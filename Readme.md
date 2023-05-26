@@ -38,7 +38,7 @@
 
 ##  🎯Objetivo do Projeto
 
-- Este projeto integrador tem como objetivo traçar o perfil  dos consumidores de combustíveis, inclusive motoristas de aplicativos. Bem como demonstrar o uso de aplicativos (que geram descontos e vantagens) vinculados às redes de postos de combustiveis.
+- Este projeto integrador tem como objetivo traçar o perfil  dos consumidores de combustíveis, inclusive motoristas de aplicativos. Bem como demonstrar o uso de aplicativos (que geram descontos e vantagens) vinculados às redes de postos de combustíveis.
 
 
 ## ☑️Requisitos Entregáveis
