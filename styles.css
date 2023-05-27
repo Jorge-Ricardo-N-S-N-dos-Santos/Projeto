@@ -25,6 +25,7 @@ footer{
     font-size: large;
     height: 50px;
     align-items: center;
+    color: rgb(173, 170, 170);
     
 
 }
@@ -42,6 +43,7 @@ img{
 }
 
 header{
+    color: rgb(173, 170, 170);
     display: grid;
     background-color: rgb(3, 3, 206);
     grid-template-columns:450px 1fr;
@@ -49,8 +51,8 @@ header{
     height: 100px;
     justify-items: end;
     align-items: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 20px;
     font-size: 30px;
 }
