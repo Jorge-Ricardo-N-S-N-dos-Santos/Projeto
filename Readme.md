@@ -43,13 +43,15 @@
 
 ## ☑️Requisitos Entregáveis
 
-- [x] Estruturação da pesquisa com base do Scrum.
-- [x] Montagem do Questionário, para realização da pesquisa.
-- [x] Montagem da Base de Dados na Planilha com filtros para sua análise.
-- [x] Criação de um Kanban, com base no dados processados que se tornaram em informações.
-- [x] Construção de um DashBoard para a tomada de decisão.
+- [x] Estruturação da pesquisa com base do Scrum. (https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/projects?query=is%3Aopen)
+- [x] Montagem do Questionário, para realização da pesquisa. (https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/8/views/2; https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/10/views/2)
+- [x] Montagem da Base de Dados na Planilha com filtros para sua análise. (vide branches, pull requests, e arquivos na main)
+- [x] Criação de um Kanban, com base no dados processados que se tornaram em informações. (https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/1/views/2)
+- [x] Construção de um DashBoard para a tomada de decisão. (vide branches, pull requests, e arquivos na main)
 
 Acesse as planilhas finalizadas da base de dados e dashboard: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/apresentacao-final/final-dados-dashboard/base-de-dados-dashboard-final.xlsx
+
+Acesse o pdf com o questionário final: (https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/main/questionario-pdf/Pesquisa%20com%20consumidores%20de%20postos%20de%20combust%C3%ADvel.pdf)
 
 ---
 
