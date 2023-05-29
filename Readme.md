@@ -22,13 +22,6 @@
    * [Link para Acessar](#link-para-acessar)
 <!--te-->
 
----
-##  🧭Status do Projeto
- 
- - [x] Concluído
- 
- ---
-
 ##  🎯Objetivos do Projeto
 
 - Este projeto integrador tem como objetivos:
