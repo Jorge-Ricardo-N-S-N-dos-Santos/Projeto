@@ -34,7 +34,9 @@ Acesse o pdf com o questionário final: https://github.com/Jorge-Ricardo-N-S-N-d
 
 Acesse as branches: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/branches/all
 
-Acesse os pull requests (abertos - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls ; fechados - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls?q=is%3Apr+is%3Aclosed)
+Acesse os pull requests: abertos - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls ; fechados - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls?q=is%3Apr+is%3Aclosed
+
+Acesse os commits na main (para acessar os demais commits, basta trocar a opção de branch): https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/commits/main
 
 Acesse o link do questionário no Google Forms: https://forms.gle/dtwvqyeSePG1rPdGA
 
