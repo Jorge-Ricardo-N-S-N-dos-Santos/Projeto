@@ -6,21 +6,12 @@
     Projeto integrador: Gama Academy/Ipiranga
 </h4>
 
-##  Quem Faz 
+##  Grupo 06 
 
 - [Carlos Julio](https://www.github.com/carlosjulyo)
 - [Igor Saramago](https://github.com/igorsaramagocosta)
 - [Jorge Ricardo](https://github.com/Jorge-Ricardo-N-S-N-dos-Santos)
 - [Karolina Marques](https://github.com/karolinamarques)
----
-##  🔠Conteúdos
-
-<!--ts-->
-   * [Quem Faz](#-quem-faz)
-   * [Status](#status)
-   * [Objetivo do Projeto](#objetivo-do-projeto)
-   * [Link para Acessar](#link-para-acessar)
-<!--te-->
 
 ##  🎯Objetivos do Projeto
 
