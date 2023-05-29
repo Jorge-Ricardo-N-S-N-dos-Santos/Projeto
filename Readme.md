@@ -45,18 +45,19 @@
 
 - [x] Estruturação da pesquisa com base do Scrum. (https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/projects?query=is%3Aopen)
 - [x] Montagem do Questionário, para realização da pesquisa. (https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/8/views/2; https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/10/views/2)
-- [x] Montagem da Base de Dados na Planilha com filtros para sua análise. (vide branches, pull requests, e arquivos na main)
+- [x] Montagem da Base de Dados na Planilha com filtros para sua análise. (para acompanhar o desenvolvimento, vide branches and pull requests)
 - [x] Criação de um Kanban, com base no dados processados que se tornaram em informações. (https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/1/views/2)
-- [x] Construção de um DashBoard para a tomada de decisão. (vide branches, pull requests, e arquivos na main)
+- [x] Construção de um DashBoard para a tomada de decisão. (para acompanhar o desenvolvimento, vide branches and pull requests)
 
 Acesse as planilhas finalizadas da base de dados e dashboard: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/apresentacao-final/final-dados-dashboard/base-de-dados-dashboard-final.xlsx
 
-Acesse o pdf com o questionário final: (https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/main/questionario-pdf/Pesquisa%20com%20consumidores%20de%20postos%20de%20combust%C3%ADvel.pdf)
+Acesse o pdf com o questionário final: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/main/questionario-pdf/Pesquisa%20com%20consumidores%20de%20postos%20de%20combust%C3%ADvel.pdf
 
----
+Acesse as branches: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/branches/all
 
-## 🔗Link para Acessar
+Acesse os pull requests (abertos - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls ; fechados - https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/pulls?q=is%3Apr+is%3Aclosed)
 
-- **Link do Questionário:** https://forms.gle/dtwvqyeSePG1rPdGA
-- **Link do Surge:** clumsy-money.surge.sh
+Acesse o link do questionário no Google Forms: https://forms.gle/dtwvqyeSePG1rPdGA
+
+Acesse a apresentação - link do Surge: clumsy-money.surge.sh
 ---
