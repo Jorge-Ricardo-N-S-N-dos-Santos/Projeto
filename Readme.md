@@ -15,7 +15,6 @@
 
 ##  🎯Objetivos do Projeto
 
-- Este projeto integrador tem como objetivos:
 -  Conhecer mais os consumidores de postos de combustível, identificar dores e problemas desses consumidores, bem como fatores que os atraem e fidelizam, e analisar diferentes aspectos do perfil desses consumidores, inclusive dos motoristas de aplicativos;
 -  Descobrir quais são os motivos que levam cada segmento e/ou perfil desses consumidores a escolherem (ou não) determinada empresa e postos de fornecimento de combustíveis, inclusive os relacionados ao uso de aplicativos vinculados às redes de postos de combustíveis;
 - Ser estruturado com base no Scrum e metodologias ágeis, com a utilização de Kanban.
