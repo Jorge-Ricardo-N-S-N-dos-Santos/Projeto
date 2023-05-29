@@ -49,11 +49,12 @@
 - [x] Criação de um Kanban, com base no dados processados que se tornaram em informações.
 - [x] Construção de um DashBoard para a tomada de decisão.
 
+Acesse as planilhas finalizadas da base de dados e dashboard: https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/blob/apresentacao-final/final-dados-dashboard/base-de-dados-dashboard-final.xlsx
+
 ---
 
 ## 🔗Link para Acessar
 
-- **Link do questionário:** https://forms.gle/dtwvqyeSePG1rPdGA
-- **Link do Surge:** 
-
+- **Link do Questionário:** https://forms.gle/dtwvqyeSePG1rPdGA
+- **Link do Surge:** clumsy-money.surge.sh
 ---
