@@ -59,5 +59,5 @@ Acesse os pull requests (abertos - https://github.com/Jorge-Ricardo-N-S-N-dos-Sa
 
 Acesse o link do questionário no Google Forms: https://forms.gle/dtwvqyeSePG1rPdGA
 
-Acesse a apresentação - link do Surge: clumsy-money.surge.sh
+Acesse a apresentação - link do Surge: http://clumsy-money.surge.sh
 
