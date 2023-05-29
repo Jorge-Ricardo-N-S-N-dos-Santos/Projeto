@@ -20,7 +20,7 @@
 - Ser estruturado com base no Scrum e metodologias ágeis, com a utilização de Kanban.
 
 
-## ☑️Requisitos Entregáveis
+## ☑️Entregáveis
 
 - [x] Estruturação da pesquisa com base do Scrum. (https://github.com/Jorge-Ricardo-N-S-N-dos-Santos/Projeto/projects?query=is%3Aopen)
 - [x] Montagem do Questionário, para realização da pesquisa. (https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/8/views/2; https://github.com/users/Jorge-Ricardo-N-S-N-dos-Santos/projects/10/views/2)
