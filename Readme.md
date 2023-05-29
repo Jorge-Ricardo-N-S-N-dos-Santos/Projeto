@@ -25,18 +25,11 @@
 ---
 ##  🧭Status do Projeto
  
- - [x] Feito
+ - [x] Concluído
  
- - Inicio: Objetivo do projeto e tecnologias utilizadas
- - Pesquisa/questionário
- - Planilha de dados bruta
- - Planilha de dados trabalhada/retificada
- - Dashboard
- - Considerações finais
+ ---
 
----
-
-##  🎯Objetivo do Projeto
+##  🎯Objetivos do Projeto
 
 - Este projeto integrador tem como objetivos:
 -  Conhecer mais os consumidores de postos de combustível, identificar dores e problemas desses consumidores, bem como fatores que os atraem e fidelizam, e analisar diferentes aspectos do perfil desses consumidores, inclusive dos motoristas de aplicativos;
